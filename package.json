@@ -1,0 +1,24 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Make a command line tic-tac-toe game from scratch for two players.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weschoi/tic-tac-toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weschoi/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/weschoi/tic-tac-toe#readme",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "prompt": "^1.0.0"
+  }
+}
